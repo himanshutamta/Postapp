@@ -1,0 +1,19 @@
+.categoriesData{
+    height: 15vh;
+    width: 80%;
+    background-color: azure;
+    margin: 80px 0 0px 60px ;
+}
+
+.categoriesData h1{
+    font-size: 30px;
+    padding: 20px 0 0 40px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.categoriesData p{
+    font-size:18px;
+    padding-left: 40px;
+    font-family: "Times New Roman", Times, serif;
+}
+

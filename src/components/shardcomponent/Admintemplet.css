@@ -1,0 +1,14 @@
+.Admintemplet{
+    display: flex;
+}
+
+.left_admintemplet{
+    width:85%;
+    text-align: left;
+    background-color: rgba(46, 44, 44, 0.164);
+}
+
+.left_navbar{
+    width: 15%;
+
+}

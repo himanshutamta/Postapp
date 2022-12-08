@@ -1,0 +1,67 @@
+
+
+.all_posts1 {
+    height: auto;
+    width: 90%;
+    background-color: white;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.all_posts h1{
+    font-size: 45px;
+    padding: 20px 0 0 70px; 
+    font-family: "Times New Roman", Times, serif;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+ .post_Link{
+    font-size: 35px;
+    padding: 0 0 0 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.all_posts1 p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.all_posts1 span{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.comment_section{
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 10vh;
+    width: 50%;
+    background-color: azure;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.comment_section label{
+    font-size: 23px;
+    margin-top: 20px;
+}
+
+.comment_section input{
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 6px;
+    margin-top: 22px;
+    width: 60%;
+}
+
+.comment_section button{
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 5px;
+    background-color: skyblue;
+    color: white;
+    border: none;
+}

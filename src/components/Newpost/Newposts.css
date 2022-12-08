@@ -1,0 +1,79 @@
+
+
+.newPosts_inner{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+.newposta_In{
+    height: auto;
+    width: 88%;
+
+}
+
+.newposta_In h1{
+    font-size: 40px;
+    padding: 30px 0 10px 40px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 500;
+}
+
+.label1{
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.title{
+    margin-left: 20px;
+    width: 80%;
+    font-size: 20px;
+    padding: 12px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+.label2{
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.paragraph{
+    width: 88%;
+    height: 40vh;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 20px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+.newposta_In button{
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    margin: 20px 0 0 40px;
+    border-radius: 25px;
+    background-color: lightskyblue;
+}
+
+.categorieAdd{
+    height: auto;
+    width: 30%;
+}
+
+.categorieAdd select{
+    height: 50px;
+    width: 70%;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 135px 0 0 30px;
+}
+
+.categorieAdd option{
+    font-size: 20px;
+    height:100px;
+    line-height: 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
